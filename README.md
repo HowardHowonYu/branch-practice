@@ -1,4 +1,4 @@
 # branch-practice
 
-- howard : Howon Yu
+- Howon Yu
 
