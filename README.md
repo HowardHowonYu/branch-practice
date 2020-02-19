@@ -1,4 +1,6 @@
 # branch-practice
 
-- howard : 유호원
+
+- howard : 유호원(Howon Yu)
+
 
